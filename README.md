@@ -7,8 +7,7 @@ Currently the topics tested in this project are
 */cmd_vel*
 */amcl_pose*
   */odom* (for turtlebot 3.0)
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  
 
 ## Available Scripts
 
