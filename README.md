@@ -2,10 +2,11 @@
 
 This is a react application that mainly utilises ROS Bridge to connect to a ROS Session and send and recieve data
 Currently the topics tested in this project are
-cmd_vel
-pose_subscriber
-nav odom msgs 
-amcl pose (for turtlebot 3.0)
+###topics published and subscribed on
+*cmd_vel*
+*pose_subscriber*
+*nav odom msgs* 
+*amcl pose* (for turtlebot 3.0)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
