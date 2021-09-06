@@ -2,7 +2,8 @@
 
 This is a react application that mainly utilises ROS Bridge to connect to a ROS Session and send and recieve data
 Currently the topics tested in this project are
-###topics published and subscribed on
+
+### Topics Published and Subscribed on
 *cmd_vel*
 *pose_subscriber*
 *nav odom msgs* 
